@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345495210198",
+    "project_id": "manga-214fa",
+    "storage_bucket": "manga-214fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345495210198:android:f043789e9940ec88076177",
+        "android_client_info": {
+          "package_name": "com.example.mangaaro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345495210198-8feebu33i65ffq5h29t363enp1o3set0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mangaaro_app",
+            "certificate_hash": "5c2efc8b6a8bf33853a1e0a1ed6c55116d2ed51d"
+          }
+        },
+        {
+          "client_id": "345495210198-jljmohtv9kg5kknq366hb8kh7grha17n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01BvUD8_4VoPiZrW2-p6I092BSEdJ794"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345495210198-jljmohtv9kg5kknq366hb8kh7grha17n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
