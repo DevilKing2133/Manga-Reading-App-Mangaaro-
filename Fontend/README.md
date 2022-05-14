@@ -13,7 +13,6 @@
 <b> WARNING: THIS IS A BETA VERSION of application, THEREFORE YOU MAY ENCOUNTER BUGS. You can file an <a href="https://github.com/DevilKing2133/DevilKing2133.git">ISSUE </a>
 
 </b>
-<h3 align="center">**Star :star:  this repo to show your support and it really does matter!** :clap:</h4>
 
 ## Screenshots
 
@@ -35,7 +34,7 @@
 Mangaaro parses website data and filters the necessary information, Therefore it removes advertisements for a better user experience. You do need to create an account to use the app.
 
 ## API Reference
-[API Repo](https://github.com/riimuru/Mangato-api) This api is being used in this project.
+[API Repo](https://github.com/DevilKing2133/Manga-Reading-App-Mangaaro-) This api is being used in this project.
 
 ## Features
 
@@ -44,13 +43,8 @@ Mangaaro parses website data and filters the necessary information, Therefore it
 - Popular Manga
 - Add To Bookmarks
 - Dark Mode Support
+- Login/SignUp
 
-## Coming Features
-
-- Ability to zoom in when reading manga.
-- Online syncing of reading progress.
-- Ability to download chapters.
-- ...and many more.
 
 ## Technologies used
 
