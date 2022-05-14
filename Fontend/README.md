@@ -10,8 +10,6 @@
 
 ---
 
-<b> WARNING: THIS IS A BETA VERSION of application, THEREFORE YOU MAY ENCOUNTER BUGS. You can file an <a href="https://github.com/DevilKing2133/DevilKing2133.git">ISSUE </a>
-
 </b>
 
 ## Screenshots
