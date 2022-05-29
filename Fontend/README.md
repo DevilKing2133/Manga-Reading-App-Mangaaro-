@@ -42,6 +42,7 @@ Mangaaro parses website data and filters the necessary information, Therefore it
 - Add To Bookmarks
 - Dark Mode Support
 - Login/SignUp
+- Upload Manga and its Chapters
 
 
 ## Technologies used
