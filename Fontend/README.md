@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-[<img src="assets/screenshots/screenshot1.png" width=160>](assets/screenshots/screenshot1.png)
+<!-- [<img src="assets/screenshots/screenshot1.png" width=160>](assets/screenshots/screenshot1.png)
 [<img src="assets/screenshots/screenshot2.png" width=160>](assets/screenshots/screenshot2.png)
 [<img src="assets/screenshots/screenshot3.png" width=160>](assets/screenshots/screenshot3.png)
 [<img src="assets/screenshots/screenshot4.png" width=160>](assets/screenshots/screenshot4.png)
@@ -25,7 +25,7 @@
 [<img src="assets/screenshots/screenshot3.1.png" width=160>](assets/screenshots/screenshot3.1.png)
 [<img src="assets/screenshots/screenshot4.1.png" width=160>](assets/screenshots/screenshot4.1.png)
 [<img src="assets/screenshots/screenshot5.1.png" width=160>](assets/screenshots/screenshot5.1.png)
-[<img src="assets/screenshots/screenshot6.1.png" width=160>](assets/screenshots/screenshot6.1.png)
+[<img src="assets/screenshots/screenshot6.1.png" width=160>](assets/screenshots/screenshot6.1.png) -->
 
 ## Description
 
